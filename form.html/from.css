@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: black;
+    /* background-color: rgb(219, 59, 23); */
+    text-align: center;
+}
+p{
+    color: black;
+    /* background-color: rgb(255, 92, 5); */
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px 30px;
+    padding: 4px;
+    border: 2px solid black;
+}
+.container{
+    background-color: white;
+    padding: 5px 20px 15px 20px;
+    justify-content: space-evenly;   
+}
+
+input{
+    align-items: center;
+    justify-content: center;
+}
+.sname{
+    margin-left: 10%;
+}
+.gname{
+    margin-left: 7.5%;
+}
+.sex{
+    margin-left: 12%;
+}
+.dob{
+    margin-left: 6.7%;
+}
+.cob{
+    margin-left: 5%;
+}
+.pob{
+    margin-left: 6.3%;
+}
+.cn{
+    margin-left: 3.5%;
+}
+.vm{
+    margin-left: 7.5%;
+}
+.button{
+    margin-left: 10%;
+}
