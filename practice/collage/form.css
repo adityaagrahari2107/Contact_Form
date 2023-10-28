@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 50px;
+    border: 2px black solid;
+
+}
+h1{
+    text-align: center;
+    margin-left: 50px;
+    color: red;
+}
+button{
+    margin-left: 200px;
+    
+    margin-bottom: 10px;
+    background-color: rgb(216, 216, 224);
+    height: 30px;
+    width: 60px;   
+}
+button:hover{
+    background-color: rgb(24, 30, 113);
+}
+button{
+    cursor: pointer;
+}

@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    border: 2px black solid;
+    background-color: aliceblue;;
+}
+button{
+    align-items: center;
+}

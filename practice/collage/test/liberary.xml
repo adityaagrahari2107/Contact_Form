@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Introduction to Programming</title>
+        <author>Anshuman</author>
+        <genre>Programming</genre>
+        <published_year>2023</published_year>
+        <isbn>123456</isbn>
+    </book>
+    <book>
+        <title>Machine learning</title>
+        <author>john smith</author>
+        <genre>Machine learning</genre>
+        <published_year>2019</published_year>
+        <isbn>2345678901</isbn>
+    </book>
+    <book>
+        <title>History of Science</title>
+        <author>Das</author>
+        <genre>History</genre>
+        <published_year>2021</published_year>
+        <isbn>34567890</isbn>
+    </book>
+    <book>
+        <title>Operating System</title>
+        <author>Sunil SIngh</author>
+        <genre>Operating System</genre>
+        <published_year>2016</published_year>
+        <isbn>456789012</isbn>
+    </book>
+    <book>
+        <title>Mathematics Fundamentals</title>
+        <author>David john</author>
+        <genre>Mathematics</genre>
+        <published_year>2018</published_year>
+    </book>
+</library>

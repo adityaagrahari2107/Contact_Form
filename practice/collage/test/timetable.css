@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    border: 2px black solid;
+}
+h3{
+    text-align: center;
+}
+table{
+    border: 2px black solid;
+}
